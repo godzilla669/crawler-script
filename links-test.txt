@@ -1,0 +1,10 @@
+"file:///home/godzilla/crawler-project/test-2.html"
+file:///home/godzilla/crawler-project/test-3.html
+file:///home/godzilla/crawler-project/test-4.htm
+http://www.google.com
+file:///home/godzilla/crawler-project/test-1.html
+http://www.youtube.com
+http://www.twitter.com
+https://www.th3professional.com/2017/12/17-ted-talks.html?utm_source=dlvr.it&utm_medium=twitter&m=1
+https://www.w3schools.com/html/html_colors.asp
+http://www..com
